@@ -11,7 +11,6 @@ myTaskManager.LoadTasksFromFile("tasks.json");
 Console.WriteLine("Bienvenue sur votre TODO List !");
 ShowMenu();
 
-
 void ShowMenu()
 {
     Console.WriteLine("QUE VOULEZ VOUS FAIRE ?????");

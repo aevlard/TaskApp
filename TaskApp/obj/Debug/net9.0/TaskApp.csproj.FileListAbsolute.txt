@@ -1,0 +1,14 @@
+C:\Users\s_13459_gamedev\RiderProjects\TaskApp\TaskApp\bin\Debug\net9.0\TaskApp.exe
+C:\Users\s_13459_gamedev\RiderProjects\TaskApp\TaskApp\bin\Debug\net9.0\TaskApp.deps.json
+C:\Users\s_13459_gamedev\RiderProjects\TaskApp\TaskApp\bin\Debug\net9.0\TaskApp.runtimeconfig.json
+C:\Users\s_13459_gamedev\RiderProjects\TaskApp\TaskApp\bin\Debug\net9.0\TaskApp.dll
+C:\Users\s_13459_gamedev\RiderProjects\TaskApp\TaskApp\bin\Debug\net9.0\TaskApp.pdb
+C:\Users\s_13459_gamedev\RiderProjects\TaskApp\TaskApp\obj\Debug\net9.0\TaskApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_13459_gamedev\RiderProjects\TaskApp\TaskApp\obj\Debug\net9.0\TaskApp.AssemblyInfoInputs.cache
+C:\Users\s_13459_gamedev\RiderProjects\TaskApp\TaskApp\obj\Debug\net9.0\TaskApp.AssemblyInfo.cs
+C:\Users\s_13459_gamedev\RiderProjects\TaskApp\TaskApp\obj\Debug\net9.0\TaskApp.csproj.CoreCompileInputs.cache
+C:\Users\s_13459_gamedev\RiderProjects\TaskApp\TaskApp\obj\Debug\net9.0\TaskApp.dll
+C:\Users\s_13459_gamedev\RiderProjects\TaskApp\TaskApp\obj\Debug\net9.0\refint\TaskApp.dll
+C:\Users\s_13459_gamedev\RiderProjects\TaskApp\TaskApp\obj\Debug\net9.0\TaskApp.pdb
+C:\Users\s_13459_gamedev\RiderProjects\TaskApp\TaskApp\obj\Debug\net9.0\TaskApp.genruntimeconfig.cache
+C:\Users\s_13459_gamedev\RiderProjects\TaskApp\TaskApp\obj\Debug\net9.0\ref\TaskApp.dll
